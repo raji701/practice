@@ -5,6 +5,8 @@ import java.util.Map;
 
 public class ClassImplementation {
 
+	// added by madhu
+
 	public static void main(String[] args) {
 		int[] array = { 1, 2, 3, 4, 1, 2, 3, 1, 2, 1 };
 
